@@ -6,7 +6,9 @@ Context and date
 Description
 
 ## Implementation
-Which features you included.
+Multiple levels 
+Large or elaborate levels
+Music and sound effects
 
 ## References
 
@@ -16,4 +18,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
 
-## Created by
+## Botond Kun
